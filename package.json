@@ -4,7 +4,7 @@
   "displayName": "Unity Dropdown",
   "description": "A better dropdown window for Unity Editor",
   "dependencies": {
-    "com.solidalloy.util": "1.40.1"
+    "com.solidalloy.util": "1.40.0"
   },
   "keywords": [
     "dropdown",
